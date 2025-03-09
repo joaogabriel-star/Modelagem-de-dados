@@ -1,0 +1,1 @@
+SELECT * FROM HistoricoEmprego WHERE cargo IN ('Oftalmologista', 'Dermatologista', 'Professor');
